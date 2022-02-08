@@ -6,4 +6,4 @@ This is utility to manage system like a administrator.
 </br>
 
 ### It's safe?
-This program is safe, but antiviruses scaning as a virus.
+This program is safe, but antivirus NANO-Antivirus scaning as a virus.
